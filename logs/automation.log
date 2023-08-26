@@ -1,0 +1,52 @@
+12:16:09.848 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login Button
+12:16:11.092 [main] INFO  testCases.TC_003_LoginDDT -  *** Finished TC_002_LoginTest ***
+12:16:11.122 [main] INFO  testCases.TC_003_LoginDDT -  *** Starting TC_002_LoginTest ***
+12:16:11.208 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account
+12:16:11.721 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login Link
+12:16:11.721 [main] INFO  testCases.TC_003_LoginDDT - Providing Logging details
+12:16:12.202 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login Button
+12:16:22.382 [main] INFO  testCases.TC_003_LoginDDT -  *** Finished TC_002_LoginTest ***
+12:16:22.389 [main] INFO  testCases.TC_003_LoginDDT -  *** Starting TC_002_LoginTest ***
+12:16:22.668 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account
+12:16:24.358 [main] INFO  testCases.TC_003_LoginDDT -  *** Starting TC_002_LoginTest ***
+12:16:24.458 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account
+12:16:25.017 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login Link
+12:16:25.017 [main] INFO  testCases.TC_003_LoginDDT - Providing Logging details
+12:16:25.379 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login Button
+12:16:35.402 [main] INFO  testCases.TC_003_LoginDDT -  *** Finished TC_002_LoginTest ***
+12:16:35.412 [main] INFO  testCases.TC_003_LoginDDT -  *** Starting TC_002_LoginTest ***
+12:16:35.580 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account
+12:16:36.266 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login Link
+12:16:36.266 [main] INFO  testCases.TC_003_LoginDDT - Providing Logging details
+12:16:36.598 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login Button
+12:16:37.947 [main] INFO  testCases.TC_003_LoginDDT -  *** Finished TC_002_LoginTest ***
+12:20:09.426 [main] INFO  testCases.TC_003_LoginDDT -  *** Starting TC_002_LoginTest ***
+12:20:09.570 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account
+12:20:10.425 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login Link
+12:20:10.426 [main] INFO  testCases.TC_003_LoginDDT - Providing Logging details
+12:20:11.033 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login Button
+12:20:12.336 [main] INFO  testCases.TC_003_LoginDDT -  *** Finished TC_002_LoginTest ***
+12:20:12.374 [main] INFO  testCases.TC_003_LoginDDT -  *** Starting TC_002_LoginTest ***
+12:20:12.662 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account
+12:20:13.192 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login Link
+12:20:13.193 [main] INFO  testCases.TC_003_LoginDDT - Providing Logging details
+12:20:13.848 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login Button
+12:20:24.108 [main] INFO  testCases.TC_003_LoginDDT -  *** Finished TC_002_LoginTest ***
+12:20:24.113 [main] INFO  testCases.TC_003_LoginDDT -  *** Starting TC_002_LoginTest ***
+12:20:24.266 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account
+12:20:26.002 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login Link
+12:20:26.002 [main] INFO  testCases.TC_003_LoginDDT - Providing Logging details
+12:20:27.015 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login Button
+12:20:37.110 [main] INFO  testCases.TC_003_LoginDDT -  *** Finished TC_002_LoginTest ***
+12:20:37.119 [main] INFO  testCases.TC_003_LoginDDT -  *** Starting TC_002_LoginTest ***
+12:20:37.381 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account
+12:20:39.590 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login Link
+12:20:39.591 [main] INFO  testCases.TC_003_LoginDDT - Providing Logging details
+12:20:40.511 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login Button
+12:20:50.719 [main] INFO  testCases.TC_003_LoginDDT -  *** Finished TC_002_LoginTest ***
+12:20:50.737 [main] INFO  testCases.TC_003_LoginDDT -  *** Starting TC_002_LoginTest ***
+12:20:51.280 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account
+12:20:53.074 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login Link
+12:20:53.076 [main] INFO  testCases.TC_003_LoginDDT - Providing Logging details
+12:20:55.890 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login Button
+12:20:59.972 [main] INFO  testCases.TC_003_LoginDDT -  *** Finished TC_002_LoginTest ***
